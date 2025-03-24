@@ -1,7 +1,7 @@
                                                 ##  Nivel Novato ##
 ## Descrição do Projeto
 
-Este programa em C foi desenvolvido para comparar duas cidades brasileiras, representadas por "cartas". Ele utiliza uma série de dados, como estado, código da carta, nome da cidade, população, área, PIB e número de pontos turísticos. O objetivo principal é calcular a densidade populacional e o PIB per capita, além de permitir a comparação entre as cidades com base na população.
+Este programa em C foi desenvolvido para comparar duas cidades brasileira com base logica do jogo super trunfo. Utilizando dados propostos estes dados são, estado, código da carta, nome da cidade, população, área, PIB e número de pontos turísticos. O objetivo principal é calcular a densidade populacional e o PIB per capita, além de permitir a comparação entre as cidades com base na população.
 
 ## Funcionalidades
 
@@ -78,4 +78,4 @@ Resultado: Carta 2 (Salvador) venceu!
 
 ## Conclusão
 
-Este programa é uma ferramenta útil para comparar dados de cidades brasileiras de forma simples e clara. Ele destaca a importância de conhecer as características demográficas e econômicas das cidades, proporcionando uma análise informativa e educativa.
+Este programa desenvolve a possibilidade para comparar dados de cidades brasileiras de forma simples e clara. Destacando a importância de conhecer as características demográficas e econômicas das cidades, proporcionando uma análise informativa e educativa.
