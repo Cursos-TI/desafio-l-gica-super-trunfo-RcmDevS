@@ -1,7 +1,7 @@
                                                 ##  Nivel Novato ##
 ## Descrição do Projeto
 
-Este programa em C foi desenvolvido para comparar duas cidades brasileira com base logica do jogo super trunfo. Utilizando dados propostos estes dados são, estado, código da carta, nome da cidade, população, área, PIB e número de pontos turísticos. O objetivo principal é calcular a densidade populacional e o PIB per capita, além de permitir a comparação entre as cidades com base na população.
+Este programa foi um desafio feito para comparar duas cidades brasileira com base logica do jogo super trunfo. Utilizando dados propostos estes dados são, estado, código da carta, nome da cidade, população, área, PIB e número de pontos turísticos. O objetivo principal é calcular a densidade populacional e o PIB per capita, além de permitir a comparação entre as cidades com base na população.
 
 ## Funcionalidades
 
